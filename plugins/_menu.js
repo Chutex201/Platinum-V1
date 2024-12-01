@@ -67,7 +67,7 @@ astro_patch.smd({
   try {
     // Display loading messages
     const loadingMessages = [
-      "The one above all is king y'all bow your heads 🙇"];
+      "Het stop dont pass the author of this bot youngpriest+2347025012871 message him to buy oya sleep 🙇"];
     for (const msg of loadingMessages) {
       await context.sendMessage(context.chat, { text: msg });
       await sleep(1000); // Wait for 1 second between messages
@@ -96,7 +96,7 @@ astro_patch.smd({
     } else if (hours >= 21 && hours < 23) {
       greeting = "⭐ *Still night obviously* ⭐ - Get ready to drop your phone!";
     } else {
-      greeting = "🌙 *Good Night* 🌙 - Try dey sleep you no be winch!";
+      greeting = "🌙 *Good Night* 🌙 - Try dey sleep you no be winch! idiot";
     }
 
     // Choose the next menu design
